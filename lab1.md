@@ -5,3 +5,5 @@ a. 2. One way to better answer a question in a helpful way is to explain your an
 a. 3. From the third chapter, I have learned a few things.  First, I learned that in 2004, more than 65% of RPI's undergrads graduated in the top 10% of their high school class.  Furthermore, I did not know that RPI was considered "one of America's foremost technological research institutions."  With respect to Jesse Jordan, I learned that unexpected consequences of seemingly good ideas can be extremely severe.  What began as an excellent technological project ended up costing Jordan $12,000.  I also learned that one can be held accountable for what others have done with your software.  Although Jesse Jordan did not directly pirate or even endorse pirating, he was held accountable because he created a service that indirectly led to pirating. One must be extremely conscious of the possible implications of their work, both direct and indirect.
 
 d. 3. ![Tree](images/tree.jpg)
+
+e. 2. ![Last Problem](images/Tut7.jpg) (Images from all 7 problems are located in images)
