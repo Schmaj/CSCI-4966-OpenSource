@@ -1,0 +1,2 @@
+https://github.com/Schmaj/CSCI-49XX-OpenSource/
+https://github.com/Schmaj/CSCI-49XX-OpenSource/blob/master/lab1.md
