@@ -1,6 +1,4 @@
-## Name: Mukkai S. Krishnamoorthy ( moorthy) - 
-### email: moorthy@cs.rpi.edu 
-### office Lally 305
-### github account: mskmoorthy
-### slack handle: mskmoorthy
-Photo of Moorthy ![Moorthy](images/msk.jpg)
+## Name: Jonathon W. Schmalz - 
+### email: schmaj@rpi.edu 
+### github account: Schmaj
+Photo of Me ![Moorthy](/home/schmaj/Dropbox/Photos/HawaiiFamilyTrip.jpg)
