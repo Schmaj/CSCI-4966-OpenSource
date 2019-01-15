@@ -7,3 +7,5 @@ a. 3. From the third chapter, I have learned a few things.  First, I learned tha
 d. 3. ![Tree](images/tree.jpg)
 
 e. 2. ![Last Problem](images/Tut7.jpg) (Images from all 7 problems are located in images)
+
+e. 3. ![Last XW](images/XW4.png) (Images from the 4 Cross Word problems are located in images)
