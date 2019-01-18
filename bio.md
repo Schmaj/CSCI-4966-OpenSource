@@ -1,5 +1,6 @@
 ## Name: Jonathon W. Schmalz 
 ### email: schmaj@rpi.edu 
 ### github account: Schmaj
-### github account: schmaj
+### Mattermost handle: schmaj
+
 Picture of Me: ![Jonathon Schmalz](images/Me.jpg)
