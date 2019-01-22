@@ -9,3 +9,5 @@
 - 3.1 https://github.com/Schmaj/PullReq/tree/master/Spring2019
 
 - 3.4 https://github.com/Schmaj/courseproject
+
+- 3.5 https://github.com/Schmaj/ProjectIdeas2019
