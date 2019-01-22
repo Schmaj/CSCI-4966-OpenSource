@@ -11,3 +11,5 @@ e. 2. ![Last Problem](images/Tut7.jpg) (Images from all 7 problems are located i
 e. 3. ![Last XW](images/XW4.png) (Images from the 4 Cross Word problems are located in images)
 
 f. 2. ![Maze Puzzle](images/Puzzle.png)
+
+g. 4. In looking for an Open Source Project, I am looking for something that can improve lives and be useful, while still being interesting and rewarding to work on.  Monetary gain would be nice, but it is not a deciding factor in the search.  I am also looking for a project to which I can readily and meaningfully contribute.  I do not wish to spend most of my time becoming accustomed to the project, rather than being able to add to and improve upon it.  Lastly, I would like to find a project with a clear future of growth and improvement.  A stagnant project sounds neither interesting nor useful. 
