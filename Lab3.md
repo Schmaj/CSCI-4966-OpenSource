@@ -21,7 +21,7 @@ MCO
 [MCO gource](http://www.bierysbargainbarn.com/gource.mp4)
 it seems like jeremiah has the most input altho 99k lines in 15 commits is kinda weird...
 
-#Observatory:
+# Observatory:
 ## 42 contributors
 ## 33839 total total lines of code
 ## First Commit: 
