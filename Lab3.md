@@ -1,3 +1,20 @@
+MxM
+- Number of contributors: 5
+- Number of lines of code: 39059
+- Initial commit: commit 2ede95db420dde4ac846342af54236c4c2b2cb1c
+Author: PatrickCelentano <dr0ideka>
+Date:   Thu Sep 1 17:56:25 2016 -0400
+
+    Initial commit
+- Latest Commit: Merge: 4cae011 2a49274
+Author: Jon Patsenker <jonathan@patsenker.com>
+Date:   Fri Feb 2 12:50:46 2018 -0500
+
+    Merge pull request #139 from MusicExMachina/dl-develop
+    
+    DL develop merge, just in case
+- Current Branches: master, core-develop, gh-pages, j-develop, lilypond-develop, midi-develop, n-develop
+
 RCOS-MicrofossilSorter
 - Number of contributors: 3
 - Number of lines of code: 109076
