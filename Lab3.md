@@ -5,6 +5,7 @@ RCOS-MicrofossilSorter
 - Latest Commit: "half approach.py function documented", Fri Dec 7 17:33:59 2018 -0500
 - Current Branches: master, WebsiteUpdate, documentation
 - Compared to the above, GitStats returned less total lines of code, with 2874 lines. The number of contributors on GitHUb is half - as many authors returned by GitStats.
+![MCFS Gource](images/GitStatsMCFS.png)
 - Gource Video: https://www.youtube.com/watch?v=UhHALqy0crA
 
 MCO
@@ -44,10 +45,10 @@ it seems like jeremiah has the most input altho 99k lines in 15 commits is kinda
 ### urp-form
 ### feature/455
 
-![gitstats results](gitstats.jpg)
+![gitstats results](images/gitstats.jpg)
 
 
-![gitstats results](gitstatsGraph.jpg)
+![gitstats results](images/gitstatsGraph.jpg)
 Gitstats does an excellent job of showing change over time, as
 opposed to handwriting observations, which is tedious even only
 taking specific moments (like first and most recent commit)
