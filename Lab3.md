@@ -39,7 +39,7 @@ Date:   Fri Feb 2 12:50:46 2018 -0500
     DL develop merge, just in case
 - Current Branches: master, core-develop, gh-pages, j-develop, lilypond-develop, midi-develop, n-develop
 - GitStats recorded less lines of code than the git, but more contributors.
-- ![MxM Gource](https://youtu.be/vqrAqEk9AJE)
+- Gource Link: https://youtu.be/vqrAqEk9AJE
 
 # Observatory:
 ## 42 contributors
