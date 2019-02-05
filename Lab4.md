@@ -8,4 +8,8 @@
 https://dev.to/genichm/explain-gplv2-license-like-i-am-five-570g 
 https://en.wikipedia.org/wiki/Linux
 
+7. For a developer, the GPL-3 license would be best.  This is because it maintains the integerity of the open-source while still granting freedoms.  Also, any modifications must be under the same GPL license and stated openly, while still including the copyright and the original source code.
+For a company, the GPL-3 license would be best, for reasons similar to why it is best for a developer.  The license maintains the original and keeps the project open-source, while still permitting modifications and further distribution.
+For the common good, the Apache License 2.0 would be best. This is because it is the most permissive of the three and grants the most freedom to the user.
+
 
