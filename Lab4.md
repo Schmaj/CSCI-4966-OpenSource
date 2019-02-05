@@ -14,4 +14,8 @@ For the common good, the Apache License 2.0 would be best. This is because it is
 
 9. For this course, I would like to experiment with machine learning and neural-net technology, like TensorFlow. The exact application of the technology is yet-to-be-determined. However, data gathering and potential prediction seems very interesting.  The users will be anyone looking to learn more or tinker with machine learning and its possibilities.  The project will most likely be under the MIT license, in order to grant many freedoms to the user, while limiting liability.
 
+10. 
 
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
