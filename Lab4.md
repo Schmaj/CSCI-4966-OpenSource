@@ -19,4 +19,7 @@ For the common good, the Apache License 2.0 would be best. This is because it is
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/rcos/Observatory | Yes | Two Clause BSD License 
----------|:----------|:-------
+https://github.com/musicexmachina/mxm | Yes | MIT
+https://github.com/rcos-mcfs/rcos-microfossil-sorter | Yes | MIT
+https://github.com/opencircuits/opencircuits | Yes | BSD-3-Clause
+https://github.com/submitty/submitty | Yes | BSD-3-Clause
