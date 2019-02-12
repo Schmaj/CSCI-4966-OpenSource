@@ -1,2 +1,5 @@
-Step 1: ![Step1](images/cmake1)
-Step 2: ![Step2](images/cmake2)
+Step 1: ![Step1](images/cmake1.png)
+Step 2: ![Step2](images/cmake2.png)
+Step 3: ![Step3](images/cmake3.png)
+Step 4: ![Step4](images/cmake4.png)
+Step 5: ![Step5](images/cmake5.png)
