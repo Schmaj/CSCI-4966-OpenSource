@@ -1,3 +1,6 @@
 Project: B7
+Github Link: https://github.com/Tiecoon/B7
+Existing Project?: Yes
 Leader/Owner: Luke Biery
 Members: Jonathon Schmalz
+Description: A WIP project that aims to ease/automatically perform instruction count sidechannels using perf.
