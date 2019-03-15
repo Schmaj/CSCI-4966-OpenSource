@@ -12,4 +12,4 @@
 ![pic 4](images/lab7_4_4.png)
 
 5. For the project, the team is using the RCOS Mattermost channel already in place for the project. 
-The Observatory page can be found here: ![B7 Observatory](https://rcos.io/projects/tiecoon/b7/)
+The Observatory page can be found here: [B7 Observatory](https://rcos.io/projects/tiecoon/b7/)
