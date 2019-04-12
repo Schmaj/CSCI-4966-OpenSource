@@ -6,7 +6,7 @@
 
 ---------------------------------------------------------------------------------
 
-3. ![Checkpoint 3_1](images/lab11_3.png)
+3. ![Checkpoint 3_1](images/lab11_3_1.jpg)
 ![Checkpoint 3_2](images/lab11_3_2.png)
 ![Checkpoint 3_3](images/lab11_3_3.png)
 ![Checkpoint 3_4](images/lab11_3_4.png)
