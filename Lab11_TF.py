@@ -7,6 +7,8 @@ from tensorflow import keras
 # Helper libraries
 import numpy as np
 import matplotlib.pyplot as plt
+import PIL
+from PIL import ImageOps
 
 def plot_image(i, predictions_array, true_label, img):
   predictions_array, true_label, img = predictions_array[i], true_label[i], img[i]
@@ -78,7 +80,47 @@ num_images = num_rows*num_cols
 plt.figure(figsize=(2*2*num_cols, 2*num_rows))
 for i in range(num_images):
   plt.subplot(num_rows, 2*num_cols, 2*i+1)
-  plot_image(i, predictions, test_labels, test_images)
+  plot_image(i+9000, predictions, test_labels, test_images)
   plt.subplot(num_rows, 2*num_cols, 2*i+2)
-  plot_value_array(i, predictions, test_labels)
+  plot_value_array(i+9000, predictions, test_labels)
 plt.show()
+
+im0 = PIL.Image.open("TFtest.png")
+im1 = PIL.Image.open("TFtest2.png")
+im2 = PIL.Image.open("TFtest3.png")
+im0 = im0.resize((28, 28))
+im1 = im1.resize((28, 28))
+im2 = im2.resize((28, 28))
+im0 = im0.convert('L')
+im1 = im1.convert('L')
+im2 = im2.convert('L')
+im0 = PIL.ImageOps.invert(im0)
+im1 = PIL.ImageOps.invert(im1)
+im2 = PIL.ImageOps.invert(im2)
+np_im0 = np.array(im0) / 255.0
+np_im1 = np.array(im1) / 255.0
+np_im2 = np.array(im2) / 255.0
+im0 = (np.expand_dims(np_im0, 0))
+im1 = (np.expand_dims(np_im1, 0))
+im2 = (np.expand_dims(np_im2, 0))
+
+prediction_im0 = model.predict(im0)
+print(prediction_im0)
+plot_value_array(0, prediction_im0, test_labels)
+_ = plt.xticks(range(10), class_names, rotation=45)
+plt.show()
+print("")
+
+prediction_im1 = model.predict(im1)
+print(prediction_im1)
+plot_value_array(0, prediction_im1, test_labels)
+_ = plt.xticks(range(10), class_names, rotation=45)
+plt.show()
+print("")
+
+prediction_im2 = model.predict(im2)
+print(prediction_im2)
+plot_value_array(0, prediction_im2, test_labels)
+_ = plt.xticks(range(10), class_names, rotation=45)
+plt.show()
+print("")
